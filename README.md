@@ -8,3 +8,6 @@ To run:
 1. Copy and paste the chat logs from the game session you are trying to load onto the file named "input.txt"
 2. Run the file "run.py"
 3. Insert the Pokemon Showdown names of the two people who were fighting in the chat log. P1 is the player who's perspective the replay is based off of, P2 is the other player.
+
+
+File "creds.json", where the credentials for the Google Sheets file are, excluded.
